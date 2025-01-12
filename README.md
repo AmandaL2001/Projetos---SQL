@@ -1,5 +1,8 @@
 Projeto de Análise de Gastos Anuais
+
+
 Descrição do Projeto
+
 Este projeto tem como objetivo analisar os gastos anuais em cartão de credito dos clientes, utilizando SQL para extrair, transformar e analisar os dados. Os resultados dessa análise ajudarão na identificação de padrões de consumo, pontos de otimização de custos e tendências financeiras ao longo do ano.
 
 Estrutura do Projeto
